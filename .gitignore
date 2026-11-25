@@ -1,6 +1,17 @@
-
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
 .venv/
-.env
+venv/
 
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Personal financial data - keep private, never commit
+expenses.json
+expenses.backup-*.json
+expenses_export.csv
+*.tmp

@@ -1,5 +1,5 @@
-
 {
-    "expenses": []
+  "version": 1,
+  "monthly_budget": null,
+  "expenses": []
 }
-
